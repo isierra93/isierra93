@@ -1,8 +1,7 @@
 
 # console.log('Hi, I'm Iván! 👨‍💻');
 
-
-[![code.png](https://i.postimg.cc/QdGG5ft1/code.png)](https://postimg.cc/1fHj1cD3)
+[![code.png](https://i.postimg.cc/g0Qdrmfq/code.png)](https://postimg.cc/CZG9QTMz)
 
 ## 🚀 About Me
 🧉I'm a junior full stack developer
