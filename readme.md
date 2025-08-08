@@ -7,9 +7,6 @@
   <li>🧠 Cursando la Tecnicatura Universitaria en Programación en la UTN</li>
 </ul>
 
-### Github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isierra93&theme=dark)](https://git.io/streak-stats)
-
 <p>
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isierra93&layout=compact&theme=aura&langs_count=10" />
 </p>
