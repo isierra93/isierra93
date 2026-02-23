@@ -1,11 +1,15 @@
-<h1 align='center'>console.log('Hola Mundo, Soy Iván!')</h1>
+<h1 align='center'>System.out.println("Hola Mundo, soy Iván!");</h1>
 
-<h2 align="left" font-weight="bold">Sobre mi</h2>
+<h2 align="left" font-weight="bold">👨‍💻 Sobre mí</h2>
 <ul>
-  <li>🧉 Soy un desarrollador full stack de Argentina</li>
-  <li>👩‍💻 Actualmente estoy trabajando en mi portfolio</li>
-  <li>🧠 Cursando la Tecnicatura Universitaria en Programación en la UTN</li>
+  <li>🧉 Soy un <b>Backend Developer</b> de Argentina, especializado en construir APIs robustas, microservicios y arquitecturas escalables.</li>
+  <li>🎓 Cursando la Tecnicatura Universitaria en Programación en la UTN.</li>
+  <li>🚀 Actualmente participando en simulaciones laborales (NoCountry) y trabajando con flujos de automatización en n8n.</li>
+  <li>⚙️ Entusiasta de la infraestructura: administro mis propios despliegues en VPS utilizando Docker, Nginx Proxy Manager y bases de datos relacionales.</li>
+  <li>🎮 Fuera de la terminal, me vas a encontrar optimizando el hardware de mi PC o inmerso en una partida de Valorant o Baldur's Gate 3.</li>
 </ul>
+
+## 🛠️ Stack Tecnológico y Herramientas
 
 
 ## Lenguajes y herramientas
