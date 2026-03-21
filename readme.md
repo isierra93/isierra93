@@ -1,8 +1,8 @@
 # Hola! Soy Iván Sierra 👋 
 
-### 🚀 Backend Developer | Java & Spring Boot | Automation with n8n
+### 🚀 Software Engineer | Java & Spring Boot | Automation with n8n
 
-¡Hola! 🧉 Soy un Backend Developer de Argentina y estudiante de la Tecnicatura Universitaria en Programación en la UTN. Me enfoco en la creación de servicios backend robustos y de alto rendimiento, trabajando principalmente con el ecosistema Java y Spring Boot para construir APIs, microservicios y resolver lógica de negocio compleja con un manejo eficiente de datos usando JPA y SQL.
+Soy un desarrollador backend de Argentina y estudiante de la Tecnicatura Universitaria en Programación en la UTN. Me enfoco en la creación de servicios backend robustos y de alto rendimiento, trabajando principalmente con el ecosistema Java y Spring Boot para construir APIs, microservicios y resolver lógica de negocio compleja con un manejo eficiente de datos usando JPA y SQL.
 
 Poseo una visión integral del desarrollo que abarca tanto la infraestructura como la inteligencia artificial. Llevo mis aplicaciones a producción administrando mis propios servidores VPS, donde utilizo Docker y Nginx Proxy Manager para asegurar entornos consistentes. Actualmente aplico estos conocimientos en simulaciones laborales como NoCountry, creando flujos en n8n y desarrollando sistemas backend orientados a la escalabilidad.
 
@@ -10,7 +10,7 @@ Poseo una visión integral del desarrollo que abarca tanto la infraestructura co
 
 ## 🛠️ Mi Stack Tecnológico
 
-### **Backend & Core Architecture**
+### **Backend & Arquitectura**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -19,7 +19,7 @@ Poseo una visión integral del desarrollo que abarca tanto la infraestructura co
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### **AI & Tools**
+### **AI & Herramientas**
 ![N8N](https://img.shields.io/badge/n8n-Workflows-orange?style=flat&logo=n8n)
 ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-F15833?style=flat&logo=nginxproxymanager&logoColor=white)
 ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
